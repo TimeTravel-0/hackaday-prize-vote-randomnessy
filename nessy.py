@@ -33,7 +33,7 @@ def printhisto(histo):
 histo = dict()
 
 # 10k queries (=20k samples!) for nearly 600 possible answers
-# so each possible answer should show up 20k/600 = 333 times in average
+# so each possible answer should show up 20k/600 = 33.3 times in average
 for i in range(0,10000):
     d = getdata()
     pushhisto(histo,d[0])
