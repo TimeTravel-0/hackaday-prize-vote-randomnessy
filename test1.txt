@@ -1,0 +1,208 @@
+"Driverless Mouse and Keyboard Sharing";4
+"Domestic Geothermal Stirling Power Unit";1
+"Wearable Personal-Space Alert";1
+"Green eutectic rocket propellant";1
+"Theme Park of Everyday Installation";2
+"Project Equus";3
+"Head Tones";1
+"MZ-1: Mega Zoom Security Camera - Revision 1";1
+"GardenMill";1
+"Mute-ation";1
+"AAGriculture (Automated Aquaponic Garden)";1
+"Sewable Flex Modules";1
+"Keep the basil alive";2
+"Environmental Condition Monitor";1
+"RCbenchmark dynamometer";3
+"SubPos - Positioning System";1
+"Fabscan PI - Open Source web-enabled 3D Scanner";1
+"Open Source Tattoo";1
+"Teensy data logger";4
+"Toilet Snap - Very Efficient Toilet Paper Holder";4
+"InoDex";2
+"Virtual Printer";1
+"Arduino anti-theft alarm shield";1
+"Pi Video Player";1
+"Cloud Seeding";1
+"Very Expensive Tool + Green Lasers";2
+"Pathfinder - Haptic Navigation";1
+"Simple Microplastics Filter for Residential Use";2
+"K-9 robotic pet";1
+"DyIO (Dynamic Input Output) controller";7
+"Project EDEN";2
+"Open source Home Hub";2
+"Ultra Low Cost Diesel Soot Monitor";1
+"Interactive Disco Dance Floor";1
+"Lux Staff";1
+"OpenCT2";1
+"Open Ground Penetrating Radar";1
+"Police Car Pinewood Derby";1
+"PolyMorph Receiver";3
+"BlueSaab";2
+"DepressionAlarm";2
+"Low power smartphone OS";2
+"Open Source Embroidery Machine";2
+"Augmented Reality and Kinect";1
+"Android Remote Control for Electrical Applicances";4
+"Doc Digitizer";1
+" NOCTURNAL SOLAR LIGHT BULB";1
+"sat.Send";1
+"PiDP-8/I";1
+"Mbas - Mail box alert system";1
+"FSAE 2015 Electric Race Car";5
+"Milk Jug Printer";6
+"Access B";3
+"PowerWheel";4
+"Open Wireless Capsule Endoscopy";1
+"Hummingbird";5
+"Turbidity Sensor";2
+"Hoodlight";2
+"Impact";5
+"Low-power environmental data logger";1
+"Omnia Creator";1
+"M.R. E.T. C.E.T.E.R.A";1
+"HydroPWNics";6
+"Audio Cube";1
+"Lazy Cleaner 9000";1
+"Terra Spider";4
+"PICxie: A micro PIC18F development kit";1
+"Pill Minder - Automatic Pill Dispenser";1
+"Muffsy Phono Preamp PP-3";2
+"IoT-Online-Management - euerdesign.de";2
+"FireNice - Thermoelectric Power And Cooling";4
+"Re_Arm ";7
+"Audible Freq Sonar with the Stellaris Launchpad";1
+"commonCode (not exclusively for AVRs)";1
+"3D WiFi Bubbles";3
+"Android garage door opener";2
+"Bluetooth Studio Headphone Amplifier ";2
+"Home automation hub using pi&#39;s, arduino and more!";1
+"Urban Gardening: My Experiences";1
+"Portable tiny IoT device solving general problem";1
+"Path More Traveled";1
+"Teensy v3.1 - FrSky S.Port &amp; WS28xx Led Shield";1
+"VPN Light Switch";2
+"Earthquake Early Warning and Monitoring System";1
+"Car alarm secure remote with nRF24LE1";3
+"RunFree";1
+"JACK";1
+"Anthelion";3
+"ESPLamp";7
+"Residential Street Speed Watch";1
+"RF and laser beam harvesting for future sensors";6
+"PIC MCUs Based Homebrew Computer";1
+"Smart Home controllers";1
+"The ProReg - Fuel Monitoring System";2
+"Entropy Wheel Heat Recovery Ventilator";2
+"12axis Flex Module";5
+"Kinect Object Localization for Robotic Arm";1
+"Green Power from Piezo-Trees";1
+"OpenBionics Affordable Prosthetic Hands ";3
+"Function Generator";2
+"Motion Sensor and video filter system using FPGA";5
+"Novation Launchpad controlled by Arduino";1
+"CTRL-BA";1
+"Clouden";4
+"uFX: A Guitar Effect Prototyping Platform";8
+"EnVision";1
+"USB BiPower OTG Flex Module";3
+"Malti";1
+"The DEAF-ENDER with AVC!";1
+"Remote Humidity/Temp Sensor for Dryer Exhaust";8
+"Webmaker tools on  Raspberry Pi";1
+"GroBots - OpenGrow";1
+"ESP-01 &amp; ESP-03 Breakout";1
+"Old Tech will Always beat New Tech";1
+"ESPLux - Smarts for your downlights";1
+"SunSafe - A solar powered safety light";1
+"Navigating Poet";1
+"WÎ›LLTÎžCH PHÎ›NTOM: Bone-Conduction BT Audio Headset";1
+"Flex Modules";3
+"VGATonic v2 Serial VGA Graphics Card";2
+"nRFIoT - Easy IoT Sensors";1
+"Python Powered Scientific Instrumentation tool";1
+"OpenHab Bluetooth Remote Control";1
+"Urban Gardening: IKEA Style Kit";1
+"Iridium Eye: A 3d Mapping Drone ";1
+"Autonomous video recording";1
+"Hacking powerful EV drivetrains";1
+"Prescription Protector  ";3
+"ElectricEye";1
+"Arduino controlled Bluetooth mp3 radio for moped";3
+"Stopping Desertification";4
+"Sensorian-IoT-Dashboard";2
+"Pitching Target";1
+"Ultra-Portable Sustainable Electric Generator";2
+"FacilTempo - weather station";1
+"ChaudhryBot";1
+"cheQuadX";8
+"A &#39;Who did it&#39; detector";1
+"CheesyChips";1
+"DRV2605L LRA Driver Flex Module";1
+"SmartLet";1
+"Mycroft";1
+"Arduino Pi: an Arduino computer for developers. ";1
+"Hardware Encrypted Flash Drive";1
+"EZeeSample";3
+"DayBreaker";5
+"Moisture monitoring mesh network";2
+"TiRStove  ";1
+"Recyclable Delivery System";2
+"SentriFarm (Farmer stay in Bed, too hot to reap!)";1
+"Redtree Hydra: A modular platform for robotics";5
+"Low Cost Weather Station";2
+"SenseBoard";5
+"Smart Lamp Notification";2
+"Thermoelectric and solar generator";4
+"Pediatric Therapy Device";2
+"Bitbox console";2
+"Nano Bike Alarm";5
+"Dual Channel Battery Charger/Analyzer";3
+"TAS2521 Digital Audio Out Flex Module";1
+"Windows DOS Threat A World Wide patch must be";6
+"Open Source Industrial Smart Camera";1
+"3D Printable Robot Arm";1
+"Tiny Bit Dingus";1
+"NIRGM - Non-Invasive NIR Glucose Meter";1
+"Medical Plasma Sterilization";4
+"RAZBOT";7
+"Wireless Batteryless Mouse";1
+" SinapTec AT328.02 is a 3D FDM printer controller";1
+"Snail Mail Notifier";4
+"ESP8266 DIN 8-Channel Wifi Relay Controller";2
+"Electric Ninja";1
+"A Smart Fridge With Brains";1
+"Mini Aircondition";1
+"Urban Kitchen Garden";9
+"Smart Hydroponic GreenHouse";1
+"UpDroid&#39;s UP1";1
+"Pulse Music Player";1
+"Squirco Smart Home System - Sensor Network";2
+"Self consumption Solar";1
+"Open source sport watch";3
+"One Fridge off the Grid";4
+"Garage Stereo II";1
+"Low Water Usage Residential Shower";1
+"SDmicro Flex Module";1
+"Home automation using RF mesh network and arduino";1
+"SOLAR POWERED ARDUINO WEATHER STATION";2
+"Poor Man&#39;s “Laser” Cutter";1
+"DriverDuino - Safe AC Power and Arduino";3
+"Medical Picorder";1
+"Stand-down plug";1
+" Inexpensive Water Quality Testing System ";1
+"Algorithmic Composter";1
+"Ultra low noise user programmable power supply";1
+"bionic super arm";1
+"Qi and USB Li Charger Flex Module";4
+"Pyball - A Smart Eye on the World";1
+"Arduino Enigma Machine Simulator";1
+"LiteHouse";1
+"IOTsatcom is IOT and robotics everywhere";4
+"Sea Temperature Sensor using GSM";1
+"Node Based Water Monitoring Network";1
+"Team TAHMO";3
+"Hydra Multi OS Gaming Console &amp; Controller";1
+"Tote, affordable spider robot";1
+"Goldilocks Analogue";1
+"Fire Extinguisher with Voice Prompt";1
+"Weather Controlled SmartWindow";2
