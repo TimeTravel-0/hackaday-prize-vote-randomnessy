@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 
 # reference: http://hackaday.com/2015/06/05/astronaut-or-astronot-community-voting-begins/#comment-2595456
