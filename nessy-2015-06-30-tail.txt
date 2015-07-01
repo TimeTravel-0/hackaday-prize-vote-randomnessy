@@ -1,0 +1,586 @@
+"MAX14521E EL Driver Flex Module";18
+"Strain Indicator V2.0";48
+"Project Equus";13
+"Light Electric Utility Vehicle";33
+"SociACL";22
+"Dance Kit";8
+"Sewable Flex Modules";3
+"$5 smart A/C";27
+"Environmental Condition Monitor";44
+"Arduino Shades of Grey Water";30
+"RCbenchmark dynamometer";5
+"Eye Controlled Wheelchair!";51
+"Teensy data logger";10
+"WΛLLTΞCH PHΛNTOM: Bone-Conduction BT Audio Headset";25
+"Path More Traveled";55
+"Rain Saver";20
+"Surveillance Robot Camera (SUROCAM)";89
+"K-9 robotic pet";34
+"low-field MRI";22
+"Project EDEN";14
+"WeatherPi - Solar Powered Raspberry Pi Station";14
+"Ultra Low Cost Diesel Soot Monitor";12
+"MZ-1: Mega Zoom Security Camera - Revision 1";13
+"Self consumption Solar";19
+"Convert Farm fields to NFT Hydroponics";11
+"LiteHouse";19
+"6502 Homebrew Computer";19
+"Mute-ation";29
+"GardenMill";43
+"Open Source Cell Phone";6
+"Pottery BEAM Robot";21
+"FSAE 2015 Electric Race Car";24
+"Access B";10
+"CheesyChips";12
+"Share the Warmth";51
+"Hoodlight";11
+"Impact";11
+"Massively Multiplayer Small Scale Farming";29
+"DIY Augmented Reality Device";29
+"Hardware password manager";11
+"Improve the Haber process";7
+"The Temperizer";22
+"Condensate capture for micro-irrigation";13
+"Rice Ridiculously Automated Dorm (RRAD!)";3
+"PQ60 - EPS";57
+"Takologic";5
+"PCA9685 ERM Haptic Driver Flex Module";6
+"A low cost multispectral imaging payload for a UAV";21
+"Comper Swift(aircraft) model";19
+"Home automation hub using pi&#39;s, arduino and more!";48
+"Health Maintenance Robot  ";19
+"Voice Controlled Surveillance Drone";45
+"Build Siren";21
+"Moisture monitoring mesh network";12
+"fHome, a cheap and easy home automation system";33
+"Low cost Android USB vital signs monitor";36
+"Car alarm secure remote with nRF24LE1";27
+"A Wireless I2C Bridge for Amateur Radio Use";37
+"RunFree";39
+"Powered Solderless Breadboard";37
+"Lazy Cleaner 9000";50
+"Omnia Creator";33
+"Simple 8x8 LED display";10
+"Keep the basil alive";1
+"ESPLamp";28
+"TheSixthSense";30
+"ScrolLED watch";30
+"Residential Street Speed Watch";26
+"FlexSEA: Wearable robotics toolkit";20
+"Blockits";50
+"EM-Drive";9
+"Audio Cube";27
+"operation: Learn The MIPS (PIC32)";59
+"Growing of Things (GoT)";19
+"Gas Sensor For Emergency Workers";21
+"Expandable breadboard";16
+"uSenseCam";16
+"ultraWAPI";42
+"Remote Humidity/Temp Sensor for Dryer Exhaust";16
+"Open Source Bench Top Power Supply";16
+"GroBots - OpenGrow";22
+"Telmewen: Custom Event Notification Device";37
+"ESP-01 &amp; ESP-03 Breakout";39
+"Aleph";52
+"Nano Bike Alarm";39
+"InoDex";11
+"Medical tricorder";26
+"Iconic clock for deaf children";17
+"Iridium Eye: A 3d Mapping Drone ";14
+"Internet enabled smoke alarm";30
+"Maglev Flying Car";12
+"CBDB Evo - ESP8266 Learning / Development platform";15
+"Delta-Sigma versus PWM";39
+"Density Altitude Gauge";26
+"Big Old Bus RV Conversion";21
+"NXP Phase Frequency Detector";24
+"Inline Keymap Switcher";12
+"Small Minimal Heliostat";15
+"POWER to AnalogWrite()";23
+"Minimalist Handheld Color Console";41
+"Logging kitty&#39;s eating patterns";10
+"XORYA - extremely low cost game console on PIC32";32
+"SciPIo ";4
+"DayBreaker";36
+"Digital Aid Stick for Blind";72
+"Beaglebone Black Home Automation";7
+"MiCubes are your cubes!";15
+"OpenBionics Affordable Prosthetic Hands ";12
+"i/o node";24
+"Wireless, drag-and-drop programming for hardware";1
+"EnVision";43
+"Pediatric Therapy Device";3
+"Project AirWAVE";13
+"OpenVideoMagnifier";11
+"Tiny Bit Dingus";31
+"SMPS replacement for 7805";53
+"Onboard Stellaris car computer";14
+"BLE Intertial Measurement Unit";16
+"Snail Mail Notifier";16
+"ESP8266 DIN 8-Channel Wifi Relay Controller";42
+"Mulch Slide";39
+"Electric Ninja";42
+"Urban Kitchen Garden";13
+"Autonomous Long Range UAV";7
+"Cancer Detection Using E.I.T Technique";30
+"UpDroid&#39;s UP1";6
+"Pulse Music Player";51
+"Personal Medical Assistant";26
+"256 Channel Firework Controller";40
+"8-bit binary/hex/braille keyboard";25
+"UV Lightbox";54
+"One Fridge off the Grid";39
+"BowlerStudio";11
+"ikebike";54
+"DIY Smartphone";15
+"Recycling Waste Computer Heat";4
+"Zentronic - when our minds hold us back...";23
+"HAND GESTURE FOR DEAF PERSON USING LABVIEW";29
+"Algorithmic Composter";45
+"Social Light Flex Module";38
+"Mosquito Tornado";12
+"Problem: World Health Care-There Not Many Workers";8
+"bionic super arm";30
+"Prouino - Wifi Development Board";1
+"Universal RGB 8X8X8 LED Cube base and driver board";8
+"Green eutectic rocket propellant";18
+"Theme Park of Everyday Installation";34
+"Cinebike Human Powered Cinema";9
+"Portable environmental monitor";17
+"The End of an Evil Industry";6
+"CoffeeOfThings";61
+"32-bit Audio Effects Unit";11
+"CTRL.BA";45
+"Motion Sensor and video filter system using FPGA";11
+"6DOF Robot Arm";27
+"Open Source Tattoo";8
+"Automatic Jack";19
+"Toilet Snap - Very Efficient Toilet Paper Holder";5
+"Cloud Seeding";20
+"INMP441 MEMs Microphone";34
+"DyIO (Dynamic Input Output) controller";29
+"Aspirin for everyone";24
+"DipDecade";23
+"Sonar for the visually impaired";3
+"LaserOscope";32
+" NOCTURNAL SOLAR LIGHT BULB";67
+"Mbas - Mail box alert system";35
+"NodeUSB- ‘Eat your own dog food’ WiFi IoT DevKit";37
+"DC Motor Controller for CNC Router";23
+"PowerWheel";38
+"Vinduino, a wine grower&#39;s water saving project";67
+"Police Car Pinewood Derby";17
+"Clock From Car Tachometer";25
+"Turbidity Sensor";64
+"BBQ Smoker Temp Control";6
+"GPS Receiver for Nikon D3100 Cameras";37
+"ButlerBOT";62
+"Junkyard Hydrogen Fuel Cell";22
+"Safe Pill Dispenser";11
+"Broke Hackers&#39; Model Train";25
+"FireNice - Thermoelectric Power And Cooling";45
+"Open Source Bio - STEM Teaching Tool";44
+"Driverless Mouse and Keyboard Sharing";8
+"Own-Mailbox: The first 100% confidential Mailbox!";37
+"Arduino K(V)M Switch";32
+"Anti ATM Hijack Theft ";40
+"Inductive Loop Vehicle Detector v2.1";43
+"RainMaker";37
+"VPN Light Switch";3
+"The Less Waste Game";21
+"Dekoboko 凸凹";49
+"Hydropod";25
+"JACK";20
+"Smartphone Tricorder";9
+"AltiRocket";24
+"nRF51822 BLE Flex Module";13
+"Circular Knitic";34
+"Smart Home controllers";36
+"The ProReg - Fuel Monitoring System";15
+"100$ Xray desktop CT scanner";37
+"Goldilocks Analogue";8
+"Low-noise, Easy-to-use Analog Data Logger: SiGZiG";27
+"Smart Solar Lamp";34
+"The Kasei Initiative";11
+"Fabscan PI - Open Source web-enabled 3D Scanner";23
+"Medical Picorder";16
+"CTRL-BA";38
+"HouseRemote";11
+"Hands Free Phone Accessability";17
+"Portable Micro-CHP";24
+"PolyMorph Receiver";24
+"ESP8266 Dev-Board ";23
+"uFX: A Guitar Effect Prototyping Platform";34
+"A Versatile Labtool";37
+"USB BiPower OTG Flex Module";26
+"Open Source Fitness Band";16
+"Wi-Fi Reflow Oven";40
+"ESPLux - Smarts for your downlights";40
+"SunSafe - A solar powered safety light";58
+"PICxie: A micro PIC18F development kit";9
+"AluPi - Pocketable Game and Computer System";44
+"Redtree Hydra: A modular platform for robotics";14
+"Bitbox console";22
+"OpenHab Bluetooth Remote Control";35
+"Light Square";12
+"Motorcycle Helmet Brake Light";8
+"BarT - The Automated Bartender";5
+"Prescription Protector  ";27
+"BSU - BS Free USB";3
+"Search &amp; Rescue / Disaster relief WiFi";42
+"Stopping Desertification";7
+"Bluetooth LE Mood Light";72
+"ChaudhryBot";16
+"Indoor air pollution reduction";9
+"SmartLet";15
+"Hardware Encrypted Flash Drive";10
+"PenOCR";34
+"OpenCT2";8
+"Teensy v3.1 - FrSky S.Port &amp; WS28xx Led Shield";19
+"IOTsatcom is IOT and robotics everywhere";20
+"Random number generator";52
+"A tiny scientific calculator";5
+"Trash light";27
+"True online anonymity";10
+"Smart Lamp Notification";30
+"Power Monitor";13
+"3D Printable Robot Arm";11
+"The FireVolt Project";64
+"Multi-sensor POV light";30
+"DIY Electric Vehicle from Recycled Parts";27
+"Wireless Batteryless Mouse";11
+"Urban Gardening: IKEA Style Kit";76
+"Garage Stereo II";64
+"Chocometer";17
+"Bluetooth Studio Headphone Amplifier ";30
+"Mini Aircondition";6
+"Smart Hydroponic GreenHouse";24
+"Smart Battery makes a smarter Power Pack";37
+"Lazy Man&#39;s Doorbell";7
+"2Kw AC-DC psu";31
+"Open Sensor Array";22
+"Elderly Asset Tracker";49
+"Teleimperium";9
+"Electricity usage monitor";16
+"The Informer";9
+"Poor Man&#39;s “Laser” Cutter";16
+"Shower water repurposer";33
+"Responsive Planter";14
+"IoT-Online-Management - euerdesign.de";8
+"LTA based Farm Monitoring Solution";57
+"Directed Energy Precipitation Stimulation";17
+"PixiFlood";10
+"BloodWatch";47
+"Biopotential Signal Library";48
+"guerillamesh.net";48
+"Weather Controlled SmartWindow";30
+"Instant Traffic Collision Notifier";10
+"Bicycle Computer";14
+"Lux Staff";15
+"Sunburn Monitor";13
+"Domestic Geothermal Stirling Power Unit";16
+"The Rythm Composter";1
+"The Vision Project";25
+"The Internet of Thinger (thinger.io)";28
+"Weather Clock";50
+"Noise Cancelling Headphone";14
+"7&#34; LCD Nametag";4
+"Flexible MOSFET controller board";35
+"SubPos - Positioning System";28
+"Electronic, shareable bike for intracity transport";30
+"C12666MA Micro-Spectrometer";1
+"Sit.Up";27
+"DIY Home Automation System";34
+"Pi Video Player";21
+"Pathfinder - Haptic Navigation";16
+"HelloSpoon robot.";17
+"Stomp box modification for disabaled folk";91
+"Oktopod: Dev Kit for Robo-ideas!";78
+"Open source Home Hub";22
+"Interactive Disco Dance Floor";26
+"Piezo Haptic Flex Module";28
+"Project InchWorm";10
+"Iron Man gauntlet";86
+"An IOT Device That Tells Dad the Stove is Off.";37
+"Solar nanofluid power &amp; water desalination";29
+"Low cost compact drone";48
+"UV-badge";37
+"Augmented Reality and Kinect";17
+"Soil Moisture Sensor for Agriculture";8
+"Move your Butt";67
+"Lighted Skirt";12
+"PiDP-8/I";46
+"Milk Jug Printer";24
+"a clock for all planets";22
+"#T_H_S";1
+"Open Wireless Capsule Endoscopy";11
+"ESP8266 (ESP-07/12) Dev Board";17
+"NotiLights";27
+"Low-power environmental data logger";14
+"5.5W Diode Laser for CNC";7
+"HydroPWNics";14
+"Mini weather station";12
+"PK-RF-31 low cost IoT radio module";24
+"Two Component USB Temperature Data Logger";15
+"Pill Minder - Automatic Pill Dispenser";27
+"Eco-Friendly Electric Cart / Scooter";20
+"Earthquake Early Warning and Monitoring System";3
+"Telegram Control";39
+"commonCode (not exclusively for AVRs)";45
+"3D WiFi Bubbles";28
+"MeArm - Your Robot";64
+"Automated Component Recovery";13
+"Flex Sensor ADC Buffer Flex Module";38
+"MPR121 Capacitive Touch Button";41
+"HOMER";12
+"AKER";41
+"Audible Freq Sonar with the Stellaris Launchpad";21
+"DayOne System";13
+"Binary Fuel Tank";19
+"the HOT project";37
+"Anthelion";13
+"Mycroft";7
+"Very thin (but touch type-able) USB keyboard !";24
+"Comprehensive Laboratory Developme Kit for AVR MCU";49
+"HydroGen-R8R : Portable Energy from Land Cleanups";94
+"fix wet iPhone with teensyLC";43
+"DRV2605L LRA Driver Flex Module";12
+"R&#39;lieh - Aquarium/ closed ecosystem management ";33
+"Unconventional Instrument Ochestra";36
+"PhenoPi";8
+"Butler - a visual aid for time &amp; activity";38
+"Flyver";21
+"IR2IR Translator";7
+"Green Power from Piezo-Trees";59
+"Reagent Robot";37
+"Wi-Fi Gauge";18
+"Store the automobile exhaust gases";23
+"3D Printed Parametric Motor";52
+"Tact-Tiles";15
+"ReportSafe";57
+"energy wristband";37
+"Thermoelectric and solar generator";35
+"CubeSpawn";26
+"BeagleLogic";17
+"Cleanopy";14
+"biohand - Low cost 3D printed hand prosthesis";2
+"Smart Dew-Point Water Harvester ";6
+"New a free Lab Organizer";46
+"Flex Modules";47
+"VGATonic v2 Serial VGA Graphics Card";26
+"AMIKETO";35
+"4-digit 7-segment LED display";4511
+" Pan and Tilt Camera steppers and Arduino ";17
+"Autonomous video recording";24
+"Weed Picking Robot";13
+"ElectricEye";20
+"MIDI Hero";10
+"Arduino controlled Bluetooth mp3 radio for moped";31
+"Head Tones";15
+"Ultra-Portable Sustainable Electric Generator";53
+"StormSafe";3
+"FacilTempo - weather station";33
+"cheQuadX";14
+"How are you? Errr... are you alive?";23
+"Spaghetti Breadboard";19
+"Openlog Power Distribution Board";45
+"ShakeIt";7
+"Fridge-Be (silent)";18
+"Electronics Lab for Children in South Africa";34
+"EZeeSample";32
+"TiRStove  ";41
+"Recyclable Delivery System";42
+" Uselessbots";15
+"Open Source Kinect stand-alone 3D Scanner";2
+"SentriFarm (Farmer stay in Bed, too hot to reap!)";7
+"NeoLimb";35
+"SenseBoard";15
+"reactive led gems : make the music pop";9
+"SMD Stickvise";25
+"Smart Bike";26
+"TAS2521 Digital Audio Out Flex Module";14
+"SD card back up tool";53
+"Windows DOS Threat A World Wide patch must be";11
+"Open Source Industrial Smart Camera";22
+"GrowInBox";57
+"Medical Plasma Sterilization";7
+"Reverse Vending Machine";11
+"i2c Switch Flex Module";32
+"Muffsy Hifi Dual Power Supply";26
+"Olduino Carbot Adapter Board";56
+"On-Demand Sprinkler System";27
+"Bench Power Supply";36
+"STM32F401 Flex Module";22
+"ArduTX";25
+"Autodro";20
+"Squirco Smart Home System - Sensor Network";55
+"PuneIO ";31
+"Open source sport watch";8
+"Solar Water Pump";13
+"Raspi Newspaper Reader";30
+"Single chip game console";26
+"Low Water Usage Residential Shower";3
+"SDmicro Flex Module";59
+"DriverDuino - Safe AC Power and Arduino";16
+"Cheepit: Sparrow (dev boards for smartphones)";36
+"Modular Vertical Farming";60
+"Robocan";60
+"Ultra low noise user programmable power supply";2
+"Sea Temperature Sensor using GSM";24
+"Pyball - A Smart Eye on the World";25
+"Arduino Enigma Machine Simulator";21
+"RF and laser beam harvesting for future sensors";4
+"HTTP Control for Sharp Aquos TV";11
+"Bingo Fuel";41
+"Node Based Water Monitoring Network";20
+"A Smart Fridge With Brains";15
+"Fireside Power";36
+"Fire Extinguisher with Voice Prompt";32
+"Beer Menu Please";40
+"Augmented Reality and Virtual Buttons";20
+"Bench Top 5-Axis Mill";37
+"ReBalance: tDCS-Based Human Balance Prosthetic";26
+"BlueSaab";46
+"Indoor/Outdoor Distributed Ag";19
+"Wearable Personal-Space Alert";36
+"Smart Juggling Balls";22
+"Open-source USB CPAP machine";27
+"Low power smartphone OS";25
+"Personal Environmental Logger";64
+"AAGriculture (Automated Aquaponic Garden)";21
+"ChorusText";24
+"NIRGM - Non-Invasive NIR Glucose Meter";12
+"Wild Onion - Free Anonymous Net";26
+"Small $100 Braille Printer";29
+"JMoon MakerSpace Automation System";16
+"Turn a cigarette lighter into an IR Nikon remote";39
+"Virtual Printer";13
+"The Smart Garden Mini";63
+"Guard Llama";96
+"Simple Microplastics Filter for Residential Use";14
+"Smart Hot Water Heater Controller";31
+"Bicycle brake light message";42
+"Open Ground Penetrating Radar";18
+"Smart Grid Test Facility";30
+"Binary Pomodoro Timer";6
+"Aging in Place: Being There with Pi";22
+"sat.Send";21
+"Softlabel";6
+"Open Source Embroidery Machine";41
+"Android Remote Control for Electrical Applicances";55
+"Doc Digitizer";24
+"Low Cost Wireless Home Automation and Security";24
+"DepressionAlarm";30
+"Precision Labs replica";4
+"EasyWelder: welder for plastic filaments";19
+"uBBB 32u4";3
+"Fabric8";91
+"M.R. E.T. C.E.T.E.R.A";15
+"E-ink Raspberry Pi display";6
+"The HYDRA multiheaded virtual computer";67
+"Hydra Multi OS Gaming Console &amp; Controller";2
+"SD card sized board, let&#39;s say &#34;SDuino&#34;!";3
+"End World Hunger";7
+"ARCHR";15
+"Grey Water and Urine Recycling Earth Boxes.";12
+"Re_Arm ";23
+"Antimonster Bodo";28
+"Android garage door opener";31
+"DrDAC USB Audio DAC";41
+"Project Limitless";60
+"Urban Gardening: My Experiences";21
+"Automatic Hydroponic Greenhouse";63
+"Data-Theft-Detecting Router &amp; Server";21
+"Lighted Brooch";6
+"SOLAR POWERED ARDUINO WEATHER STATION";14
+"RPN Scientific Calculator";15
+"MultiSpork";17
+"ECG ADC Buffer Flex Module";23
+"Augmented Reality and Text Recognition";13
+"TeensyGLCD";23
+"Open Source Plastica Flotilla";24
+"Bringing Cool Relief to Multiple Sclerosis";10
+"PIC MCUs Based Homebrew Computer";35
+"The DEAF-ENDER with AVC!";14
+"Novation Launchpad controlled by Arduino";25
+"IV-18 Arduino Clock";98
+"S.O.A.P.";7
+"Home automation - Trinket Sensing";45
+"Entropy Wheel Heat Recovery Ventilator";17
+"Function Generator";17
+"In-Line Battery Back-Up Module for Ham Radio";14
+"Shower water saver";57
+"TimelapseMe";27
+"ANDY: A Multi-Purpose &#34;Humanoid&#34; Robot";8
+"Clouden";16
+"Open source two stroke diesel engine";5
+"Steganography Library";28
+"Teensy Super Audio Board";21
+"Dusty - The smart dustbin";5
+"The Humble Roots Project";14
+"Electronics Madem";10
+"Webmaker tools on  Raspberry Pi";26
+"Old Tech will Always beat New Tech";13
+"lol";86
+"Navigating Poet";64
+"Weather-Sensing Sprinkler Controller";14
+"Emergency Backup Power and Wallwarts Eliminator";50
+"HDMI to LVDS interface";12
+"nRFIoT - Easy IoT Sensors";31
+"Python Powered Scientific Instrumentation tool";11
+"Nutritional Content of Food with RamanPi";36
+"RAZBOT";20
+" SinapTec AT328.02 is a 3D FDM printer controller";33
+"Arduino Zero - SAM D20/D21 Breakout Board";17
+"ARDUINO MPPT SOLAR CHARGE CONTROLLER";1
+"$1/W True MPPT";21
+"Hydro-gravitic Generator";10
+"Sensorian-IoT-Dashboard";21
+"Pitching Target";12
+"AT AT";38
+"Home Automation - BT Modules";41
+"ESP8266 Parasite";27
+"A &#39;Who did it&#39; detector";32
+"Terra Spider";32
+"Arduino Pi: an Arduino computer for developers. ";6
+"Portable tiny IoT device solving general problem";34
+"Arduino anti-theft alarm shield";25
+"Automatic Plant Watering System";46
+"The Smart Garden";50
+"Multi-Function Selective Firing Neurons";43
+"Braille Computer";5
+"Your satellite devkit and launch";56
+"Julia&#39;s Speakerphone";23
+"Malti";13
+"USB Booster";28
+"Dual Channel Battery Charger/Analyzer";20
+"Apocalypse How: Energy Harvesting";6
+"12axis Flex Module";38
+"Handheld AirQuality Detection and Wireless NODE";30
+"Muffsy Phono Preamp PP-3";42
+"Basic Quad Copter Using Lego Kit and FPGA";11
+"Timstock Slim - a tool for the autistic";15
+"pir automatic tap";25
+"Recyclotron";20
+"Obsolete Time";14
+"Squirco Smart Home System - Hub + Thermostat";7
+"Project R";67
+"Retro Modules";62
+"Hummingbird";38
+"Wearable Band";22
+"Automated Bath and Shower";42
+"Home automation using RF mesh network and arduino";98
+"Team TAHMO";20
+"Kinect Object Localization for Robotic Arm";36
+"Low Cost Weather Station";22
+"Stand-down plug";50
+"Hacking powerful EV drivetrains";28
+"Qi and USB Li Charger Flex Module";22
+"Mesh network based Internet access";37
+"Low cost portable glove box";21
+"Solar Sand Converter - Solving the sand problem";2
+" Inexpensive Water Quality Testing System ";25
+"Sarthi - Walking stick for the elderly ";23
+"Artificial Muscles and Ultra-capacitors";22
+"Walk With Me";24
+"PASS: Pollution Analytics Shared Socially";18
