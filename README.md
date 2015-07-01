@@ -21,4 +21,4 @@ Analyzing the other two rules is done by the attached python script as requested
 
 So, here I am, "constantly refreshing" the page (looks like there is a load time of approx 1 second until the answer comes out of the pipe).
 
-See text files in this repo. It should be possible to get an idea of the correlation between the measured propability of an item showing up with the age of a project on hackaday.io by probing individual projects.
+See text files in this repo. It should be possible to get an idea of the correlation between the measured propability of an item showing up with the age of a project on hackaday.io by probing individual projects. Another way of analyzing the data is to do a histogram of the propability of projects to show up, see the libre office spreadsheet and png diagram for a possible way of doing this. As the propability of a project showing up is related to some unknown parameters(e.g. creation/last time modified/...), it should be possible to see if there are groups of projects with same propoerties etc. by the histogram.
